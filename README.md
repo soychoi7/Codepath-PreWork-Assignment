@@ -5,7 +5,7 @@ Pre-work assignment for the CodePath Mobile App Design course
 
 ### App Walk-though
 
-<img src="./walthrough.gif" width=200><br>
+<img src="./walkthrough.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
